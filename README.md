@@ -1,7 +1,7 @@
 ## Olá!! Eu sou o Guilherme Benicio
 
 - 💻 Técnico em Desenvolvimento de Sistemas
-- 📚 Eu sou estudante de Desenvolvimento de Software
+- 📚 Estudante de Desenvolvimento de Software (Tecnólogo)
 - 📩 Email para contato: guilhermebenicio18102003@gmail.com
 - 📲 WhatsApp: 11 94660-6950
 
