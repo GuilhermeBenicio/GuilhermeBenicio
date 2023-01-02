@@ -3,7 +3,7 @@
 - 💻 Técnico em Desenvolvimento de Sistemas
 - 📚 Estudante de Desenvolvimento de Software (Tecnólogo)
 - 📩 Email para contato: guilhermebenicio18102003@gmail.com
-- 📲 WhatsApp: 11 94660-6950
+- 📲 WhatsApp: 11 98664-0068
 
 <div align="center">
   <a href="https://github.com/GuilhermeBenicio">
